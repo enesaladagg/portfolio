@@ -7,10 +7,19 @@
 
 ## 🚀 About Me
 
-:contentReference[oaicite:0]{index=0} Yazılım Mühendisliği 1. sınıf öğrencisiyim.
+# Enes ALADAĞ
 
-Yazılım geliştirme, algoritmalar ve proje tabanlı öğrenmeye odaklanıyorum.
-Amacım güçlü bir teknik altyapı oluşturmak ve gerçek projeler geliştirmek.
+## 🚀 About Me
+
+Ben Enes.Yazılım Mühendisliği 1. sınıf öğrencisiyim.
+
+Hazırlık temelli bir akademik geçmişe sahibim ve İngilizce seviyem B2 düzeyindedir.  
+Bu sayede teknik dokümanları okuyabiliyor, global kaynakları takip edebiliyor ve uluslararası içerikleri anlayabiliyorum.
+
+Yazılım geliştirme, algoritmalar ve proje tabanlı öğrenmeye odaklanıyorum.  
+Amacım güçlü bir teknik altyapı oluşturmak ve gerçek dünyaya yönelik projeler geliştirmek.
+
+Şu anda aktif olarak kendimi Java ve Python alanında geliştiriyorum.
 
 ## 🔥 Technologies
 
@@ -20,6 +29,6 @@ Amacım güçlü bir teknik altyapı oluşturmak ve gerçek projeler geliştirme
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enes-aladag&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=enes-aladag&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enes-aladag&layout=compact&theme=radical)
