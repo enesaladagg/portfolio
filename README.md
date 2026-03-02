@@ -7,9 +7,6 @@
 
 ## 🚀 About Me
 
-# Enes ALADAĞ
-
-## 🚀 About Me
 
 Ben Enes.Yazılım Mühendisliği 1. sınıf öğrencisiyim.
 
