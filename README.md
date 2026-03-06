@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=32&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=Enes+ALADA%C4%9E" alt="Enes ALADAĞ" />
+  <img src="GENERATED_IMAGE_URL" alt="ENES ALADAĞ" width="600" />
 </p>
+
 ## 🚀 About Me
 
 
