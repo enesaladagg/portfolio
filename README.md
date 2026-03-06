@@ -82,6 +82,7 @@ My goal is to build a strong technical foundation and develop real-world project
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/eness.aladag/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="35" alt="Instagram"></a>
 </div>
+<br>
 
 <div align="center">
   <i>("Türk mühendislerinin alnında, Cumhuriyetin istikbalini aydınlatan ışık parlar.")</i><br>
