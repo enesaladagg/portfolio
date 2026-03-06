@@ -3,9 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Java+Developer;Problem+Solver" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/249bebc0-f223-44d5-a7e6-2a5fc25a0050" alt="ENES ALADAĞ" width="600" />
-</p>
+
 ## 🚀 About Me
 
 Ben Enes.Yazılım Mühendisliği 1. sınıf öğrencisiyim.
@@ -27,7 +25,9 @@ Amacım güçlü bir teknik altyapı oluşturmak ve gerçek dünyaya yönelik pr
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 📊 GitHub Stats
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=FFD700&width=300&lines=GitHub+Analytics" />
+</h2>
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=enes-aladag&theme=radical)
 
