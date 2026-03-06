@@ -35,18 +35,15 @@ Amacım güçlü bir teknik altyapı oluşturmak ve gerçek dünyaya yönelik pr
 
 📧 Email: aladag.ahmet.enes27@gmail.com 
 
-💼 LinkedIn: https://www.linkedin.com/in/enes-alada%C4%9F-66636631b/
 
-## 📬 Contact
+
+
 
 <p align="center">
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35">](https://linkedin.com/in/username)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35">]( https://www.linkedin.com/in/enes-alada%C4%9F-66636631b/)
 &nbsp;
-[<img src="https://www.gstatic.com/images/branding/product/2x/gmail_2020q4_48dp.png" width="35">](mailto:email@gmail.com)
+[<img src="https://www.gstatic.com/images/branding/product/2x/gmail_2020q4_48dp.png" width="35">]( aladag.ahmet.enes27@gmail.com )
 &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="35">](https://instagram.com/username)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="35">]([https://instagram.com/username](https://www.instagram.com/eness.aladag?igsh=MWk2MWltZ2Z0dTZpcw==))
 &nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35">](https://github.com/username)
-
-</p>
