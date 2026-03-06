@@ -2,7 +2,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Java+Developer;Problem+Solver" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=enes-aladag&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 # Enes ALADAĞ
 
 ## 🚀 About Me
