@@ -37,24 +37,13 @@ Amacım güçlü bir teknik altyapı oluşturmak ve gerçek dünyaya yönelik pr
 
 💼 LinkedIn: https://www.linkedin.com/in/enes-alada%C4%9F-66636631b/
 
-## 🚀 Let’s Build Something Amazing
+## 💻 System Access
 
 <p align="center">
 
-<a href="https://linkedin.com/in/username">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:email@gmail.com">
-<img src="https://img.shields.io/badge/Email-FF6F00?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/username">
-<img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://github.com/username">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/LinkedIn-00FF00?style=flat-square&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/Gmail-00FF00?style=flat-square&logo=gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/Instagram-00FF00?style=flat-square&logo=instagram&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-00FF00?style=flat-square&logo=github&logoColor=black"/>
 
 </p>
