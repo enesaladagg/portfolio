@@ -131,5 +131,5 @@ My B2 level English proficiency is the greatest strength fueling this vision. I 
 <div align="center">
   <i>"First, solve the problem. Then, write the code." - John Johnson</i>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=enes-aladag&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=enesaladagg&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
