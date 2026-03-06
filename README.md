@@ -1,6 +1,6 @@
-  <h1> PORTFOLYO </h1>
+<div align="center">
+  <h1> PORTFOLIO </h1>
 </div>
-
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Java+Developer;Problem+Solver" />
@@ -8,21 +8,22 @@
   <h1> Enes ALADAĞ </h1>
 </div>
 
-<h2 align="center">🚀 Vizyonum & Hakkımda</h2>
+<h2 align="center">🚀 Vision & About Me</h2>
 
-Ben Enes.Yazılım Mühendisliği 1. sınıf öğrencisiyim.
-Yazılım Mühendisliği vizyonunu, sürekli öğrenme tutkusu ve günümüz teknolojilerine duyduğu merakla birleştiren bir geliştiriciyim.
+I am Enes, a 1st-year Software Engineering student. I am a developer who combines the vision of software engineering with a passion for continuous learning and a curiosity for modern technologies.
 
-Benim için yazılım geliştirme yalnızca kod yazmaktan ibaret değil; hızla değişen teknoloji ekosisteminde yenilikleri yakalamak ve karmaşık problemlere modern, ölçeklenebilir çözümler üretmektir. Bu nedenle kendimi belirli bir programlama dilinin sınırlarına hapsetmek yerine; algoritmik düşünce yapısını, veri yapılarını ve sağlam mühendislik prensiplerini merkeze alıyorum. Dilleri ve güncel araçları, modern sistemler inşa etmek için kullandığım birer köprü olarak görüyorum.
+For me, software development is not just about writing code; it's about catching up with innovations in a rapidly changing tech ecosystem and creating modern, scalable solutions to complex problems. Therefore, rather than confining myself to the boundaries of a specific programming language, I focus on algorithmic thinking, data structures, and solid engineering principles. I view programming languages and modern tools as bridges I use to build robust systems.
 
-B2 seviyesindeki İngilizce yetkinliğim, bu vizyonu besleyen en büyük gücüm. Global teknoloji trendlerini, uluslararası teknik dokümantasyonları ve sektördeki en iyi uygulamaları eşzamanlı olarak takip ediyor; teknik altyapımı dünya standartlarında sürekli güncelliyorum. Gerçek mühendisliğin var olanı tekrar etmek değil, sürekli gelişerek en optimal ve yenilikçi çözümü tasarlamak olduğuna inanıyorum.
+My B2 level English proficiency is the greatest strength fueling this vision. I simultaneously follow global technology trends, international technical documentation, and best practices in the industry, continuously updating my technical foundation to global standards. I believe true engineering is not about repeating what exists, but designing the most optimal and innovative solutions through continuous improvement.
 
-Yazılım geliştirme, algoritmalar ve proje tabanlı öğrenmeye odaklanıyorum.  
-Amacım güçlü bir teknik altyapı oluşturmak ve gerçek dünyaya yönelik projeler geliştirmek.
+I focus on software development, algorithms, and project-based learning.  
+My goal is to build a strong technical foundation and develop real-world projects.
 
-Şu anda aktif olarak kendimi Java ve Python alanında geliştiriyorum.
+Currently, I am actively improving myself in **Java** and **Python**.
 
-<h2 align="center">⚡ Teknolojiler & Araçlar</h2>
+<br>
+
+<h2 align="center">⚡ Technologies & Tools</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -39,7 +40,7 @@ Amacım güçlü bir teknik altyapı oluşturmak ve gerçek dünyaya yönelik pr
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=FFD700&center=true&vCenter=true&width=300&lines=GitHub+Analytics" alt="GitHub Analytics" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=300&lines=GitHub+Analytics" alt="GitHub Analytics" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=enes-aladag&theme=radical" alt="GitHub Stats" />
 </div>
@@ -47,7 +48,7 @@ Amacım güçlü bir teknik altyapı oluşturmak ve gerçek dünyaya yönelik pr
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=FF1493&center=true&vCenter=true&width=300&lines=Connect+With+Me" alt="Connect With Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF1493&center=true&vCenter=true&width=300&lines=Connect+With+Me" alt="Connect With Me" />
   <br><br>
   <a href="https://www.linkedin.com/in/enes-alada%C4%9F-66636631b/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"></a>
   &nbsp;&nbsp;&nbsp;
