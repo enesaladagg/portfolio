@@ -68,7 +68,7 @@ My goal is to build a strong technical foundation and develop real-world project
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=300&lines=GitHub+Analytics" alt="GitHub Analytics" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enes-aladag&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enesaladagg&theme=radical" alt="GitHub Stats" />
 </div>
 
 <br>
